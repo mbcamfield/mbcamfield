@@ -3,10 +3,10 @@ Mitchell Camfield <mbcamfield@gmail.com>
 :icons: font
 :imagesdir: images
 :figure-caption!:
-:stylesheet: theme.css
+:stylesheet: styles.css
+
 
 == Welcome to my GitHub Page!
-[caption-center]
 .Working Marine Life GIF by Pikaole
 image::Me.gif[alt="A gif of a crab typing furiously on a keyboard and occasionally adjusting a computer mouse",height=200,width=200,align=center]
 
