@@ -1,8 +1,5 @@
-# Profile
-Mitchell Camfield <mbcamfield@gmail.com>
-
-## Welcome to my GitHub Page!
 <div id="header" align="center">
+<h1> Welcome to my GitHub Page!</h1>
 <figure>
 <img src="./images/Me.gif" alt="A gif of a crab typing furiously on a keyboard and occasionally adjusting a computer mouse" style="height: 200; width: 200;">
 <figcaption>Working Marine Life by Pikaole at <a href="http://pikaole.com/">http://pikaole.com/</a> <figcaption>
